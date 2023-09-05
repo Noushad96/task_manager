@@ -1,0 +1,21 @@
+.custom-button {
+  /* background-color: #a879e2; */
+  color: white;
+}
+
+.custom-button:hover {
+  /* background-color: #a879e2; */
+  color: white;
+}
+
+.form-control {
+  background-color: #ffecd8 !important;
+  border-color: white;
+  outline: none;
+}
+
+.form-control:focus {
+  background-color: #ffecd8 !important;
+  border-color: wheat !important;
+  box-shadow: 0 0 0 0.15rem wheat;
+}
